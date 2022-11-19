@@ -1,0 +1,76 @@
+body {
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+	padding: 15px;
+}
+
+.container .ReachMeOut{
+   margin-left: 600px;
+   text-align: right;
+   padding: 10px;
+}
+.container > div h2 {
+	color: rgb(7, 24, 70);
+}
+.intro {
+	margin: -15px;
+	padding: 16px;
+	background-color: rgb(44, 50, 63);
+	color: rgb(250, 248, 248);
+	text-align: center;
+}
+
+#profile-image {
+	width: 400px;
+	height: 400px;
+	border-radius: 50%;
+}
+
+.social-profiles img {
+	height: 20px;
+	width: 20px;
+}
+
+.social-profiles a {
+	text-decoration: none;
+	margin: auto 3px;
+}
+
+table,
+tr,
+td,
+th {
+	border: 1px solid;
+	border-collapse: collapse;
+	font-size: 1.3rem;
+}
+
+table,
+th,
+td {
+	padding: 5px;
+}
+
+table,
+tr,
+th {
+	text-align: center;
+}
+
+th{
+   color: rgb(7, 24, 70);
+   border-left-color: black;
+   border-color: black;
+ 
+}
+
+p {
+	font-size: 1.4rem;
+}
+
+.container > div li {
+	font-size: 1.4rem;
+}
